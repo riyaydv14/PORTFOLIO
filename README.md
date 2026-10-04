@@ -9,7 +9,8 @@ A clean, responsive personal portfolio website built with **HTML** and **CSS**. 
 ## 📸 Preview
 
 
-<img width="1897" height="1037" alt="image" src="https://github.com/user-attachments/assets/abfc3a22-c3b2-48f4-bee3-3c32d915bbc8" />
+<img width="1897" height="1036" alt="image" src="https://github.com/user-attachments/assets/5e32bf70-eb35-4ee2-94de-e18b4afb95ec" />
+
 
 ---
 
